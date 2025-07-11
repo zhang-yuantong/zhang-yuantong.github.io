@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Victor is happy to see you"
+title                    : "Victor is watching you"
 title_separator          : "-"
 name                     : &name "Yuantong Zhang"
 description              : &description "personal description"
