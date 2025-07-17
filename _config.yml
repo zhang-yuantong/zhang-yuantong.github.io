@@ -22,7 +22,7 @@ repository               : "zhang-yuantong/zhang-yuantong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yuantong(Victor) Zhang"
   pronouns         : "He/Him/His"
   bio              : "I don't really like to tag myself"
