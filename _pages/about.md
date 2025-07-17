@@ -11,5 +11,5 @@ There are too many places to introduce myself. There's bio, there's description,
 
 
 This is me, of course photoshoped.
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+![About](/images/about.jpg)
 
