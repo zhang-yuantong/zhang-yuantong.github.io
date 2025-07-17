@@ -7,9 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-There are too many places to introduce myself. There's bio, there's description, and there's About. To be simple, i self-identify as a trader, a researcher, a coder, a scholar. I graduated from Duke University with a M.A. in Economics, and UCSD wit ha B.A. in Economics. Now I work at China Galaxy Securities in charge of OTC market valuation, primarily for options and swaps. I don't really like this job, but fuck it, i take it.
+There are bios, profiles, and resumes — but this is About, so let’s skip the formalities.
 
+I’m Victor: trader by trade, researcher by habit, coder by compulsion, and occasional academic when the stars (and deadlines) align. I hold degrees in Economics from UC San Diego and Duke University, with just enough math and statistics to make things complicated on purpose.
 
-This is me, of course photoshoped.
+Right now, I’m working at China Galaxy Securities, where I wrangle the valuation of OTC derivatives — mostly options and swaps. It's not exactly my passion project, but it keeps the models running and the neurons firing.
+
+I’ve built alpha factors, stress-tested trading strategies, and dabbled in machine learning just enough to know it’s never as smart as it thinks it is. I like fast code, clean models, and messy problems.
+
+This is me (yes, of course Photoshopped).
 ![About](/images/about.jpg)
 
