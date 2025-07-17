@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-There are too many places to introduce myself. There's bio, there's description, and there's About. Just check my [github](https://github.com/zhang-yuantong) to get started.
+There are too many places to introduce myself. There's bio, there's description, and there's About. To be simple, i self-identify as a trader, a researcher, a coder, a scholar. I graduated from Duke University with a M.A. in Economics, and UCSD wit ha B.A. in Economics. Now I work at China Galaxy Securities in charge of OTC market valuation, primarily for options and swaps. I don't really like this job, but fuck it, i take it.
 
 
-Example: editing a Markdown file for a talk
+This is me, of course photoshoped.
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
 
