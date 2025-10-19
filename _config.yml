@@ -325,3 +325,6 @@ defaults:
       comments: # true
       share: true
       related: true
+math:
+  enable: false   # site-wide math off
+  engine: mathjax # or 'katex' if you prefer
