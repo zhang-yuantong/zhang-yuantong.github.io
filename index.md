@@ -13,4 +13,4 @@ Right now, I’m working at China Galaxy Securities, where I wrangle the valuati
 
 I’ve built alpha factors, stress-tested trading strategies, and dabbled in machine learning just enough to know it’s never as smart as it thinks it is. I like fast code, clean models, and messy problems.  
 
-This is me (yes, of course Photoshopped).  
+![This is me (yes, of course Photoshopped).](assets/about_photo.jpg)
