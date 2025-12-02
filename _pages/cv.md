@@ -1,12 +1,12 @@
 ---
 layout: home
-title: "cv"
+title: "Yuantong Zhang"
 permalink: /cv/
 author_profile: true
 ---
 
 
-(858)-214-9817 | yuantong@zhangyuantong.com | zhangyuantong.com
+(315) 270-5259 | v_zhang@icloud.com | zhang-yuantong.github.io
 
 ## EDUCATION
 
