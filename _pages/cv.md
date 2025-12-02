@@ -1,3 +1,9 @@
+---
+layout: home
+title: "cv"
+permalink: /cv/
+author_profile: true
+---
 
 # Yuantong Zhang
 
