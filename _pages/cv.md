@@ -5,7 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-# Yuantong Zhang
 
 (858)-214-9817 | yuantong@zhangyuantong.com | zhangyuantong.com
 
