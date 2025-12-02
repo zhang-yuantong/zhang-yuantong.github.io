@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Yuantong Zhang"
 permalink: /cv/
 author_profile: true
